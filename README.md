@@ -1,2 +1,1 @@
-# html-tobeSD-
-html exercises
+# practical-react
